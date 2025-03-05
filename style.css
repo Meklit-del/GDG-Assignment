@@ -1,0 +1,27 @@
+.nav{
+    list-style-type: none;
+}
+.navigation{
+    justify-content: end;
+    align-items: end;
+
+}
+.navbar{
+    background-color:black ;
+    text-align: center;
+    color: white;
+}
+div{
+    color: aliceblue;
+}
+.div1{
+background-color: aquamarine;
+height: 30vh;
+}
+.div2{
+ height: 10vh;
+ background-color: black;
+}
+.div3{
+
+}
